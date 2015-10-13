@@ -1,2 +1,9 @@
 # pull-request-test-jannyhou4102
-Janny is the owner
+This is a test repo for making a pull request tracker
+
+# Owner
+Janny Hou
+
+#Collaborators
+Janny Hou
+Richard Pringle  
